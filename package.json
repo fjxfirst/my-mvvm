@@ -1,0 +1,12 @@
+{
+  "name": "my_vue",
+  "version": "1.0.0",
+  "description": "vue的实现原理，实现一个简易版的mvvm",
+  "main": "MVue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue的实现原理","简易版的mvvm","mvvm"],
+  "author": "fjxfirst",
+  "license": "ISC"
+}
